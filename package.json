@@ -1,0 +1,23 @@
+{
+  "name": "blessed-slides",
+  "version": "1.0.0",
+  "description": "these are my slides and they are blessed, go figure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alessbell/blessed-slides.git"
+  },
+  "keywords": [
+    "so",
+    "very",
+    "blessed"
+  ],
+  "author": "Alessia Bellisario",
+  "license": "ISC",
+  "devDependencies": {
+    "blessed": "^0.1.81"
+  }
+}
